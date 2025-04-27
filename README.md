@@ -17,6 +17,5 @@ The project explores the use of curiosity-driven reinforcement learning and gene
 - `llm/` — LLM evaluation, finetuning, and testing modules.
 - `simulator/` — Air traffic control simulation environment.
 - `utils/` — Utility functions.
-- `checkpoints/` — Folder for saving trained models and intermediate outputs.
 - `README.md` — This file.
 - `LICENSE` — Project license (MIT).
